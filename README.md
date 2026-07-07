@@ -129,8 +129,6 @@ https://raw.githubusercontent.com/python-net-dev/anytls-vless-reality-hysteria2-
 
 * 🚀 [ghproxy.net](https://ghproxy.net)
 * 🚀 [ghproxy.cn](https://ghproxy.cn)
-* 🚀 [可疑链接已删除]
-* 🚀 [可疑链接已删除]
 
 ### 2. 谷歌学术 (Google Scholar) 镜像
 
