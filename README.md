@@ -40,7 +40,7 @@
 | 机场名称 | 官方直达链接 | 核心特点与服务规格 | 适用场景 |
 | :--- | :--- | :--- | :--- |
 | **云猫** | [直达云猫官网 🌐 (cloud.yuncat.top)](https://cloud.yuncat.top) | 注册即送 3天/5GB 流量，价格亲民。全面解锁 ChatGPT、Gemini 以及主流流媒体。 | 适合日常网页浏览、AI 工具重度依赖者（延迟略高，但实际带宽充裕）。 |
-| **一元机场** | [直达一元机场官网 🌐 (一元机场.com)](https://xn--4gq62f52gdssa.com) | 极致低成本方案（低至 12元/年）。主打低开销下的长期可用性。 | 适合轻度翻墙、对速度不敏感的低预算备用党。 |
+| **一元机场** | [直达一元机场官网 🌐 (一元机场.com)](https://xn--4gq62f52gdssa.com) | 极致低成本方案（低至 12元/年）。就是速度一言难尽。 | 适合对速度不敏感的低预算备用党。 |
 
 ⚠️ *注：若发现上述链接失效，请及时通过 [Issues](../../issues) 反馈，本站将在 24 小时内完成修正或移除。*
 
@@ -54,7 +54,7 @@
 ### 1️⃣ 核心推荐：ChromeGo_Merge (全协议自动优选)
 *目前社区维护热度最高、节点存活率最优的综合节点池。*
 ```yaml
-https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/heads/main/.github/links/clash.yaml
+https://raw.githubusercontent.com/python-net-dev/anytls-vless-reality-hysteria2-tuic-ss/refs/heads/main/.github/links/clash.yaml
 
 ```
 
@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/h
 *适用于 Clash Verge Rev、ClashX Meta、Clash for Android 等 Meta/Clash 内核客户端。*
 
 ```yaml
-https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/heads/main/.github/links/clash.yaml
+https://raw.githubusercontent.com/python-net-dev/anytls-vless-reality-hysteria2-tuic-ss/refs/heads/main/.github/links/clash.yaml
 
 ```
 
@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/h
 *适用于 v2rayN、v2rayNG、Shadowrocket (小火箭)、Quantumult X。*
 
 ```text
-https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/heads/main/.github/links/v2.txt
+https://raw.githubusercontent.com/python-net-dev/anytls-vless-reality-hysteria2-tuic-ss/refs/heads/main/.github/links/v2.txt
 
 ```
 
