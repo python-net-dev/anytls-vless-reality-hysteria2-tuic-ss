@@ -1,9 +1,7 @@
 # 🚀 AnyTLS：2026 全协议高可用前沿节点池 / 免费机场推荐合集
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/No%20AFF-%E7%BA%AF%E5%85%AC%E7%9B%8A%E6%97%A0%E5%A5%97%E8%B7%AF-green?style=for-the-badge](https://img.shields.io/badge/No%20AFF-%E7%BA%AF%E5%85%AC%E7%9B%8A%E6%97%A0%E5%A5%97%E8%B7%AF-green?style=for-the-badge)" alt="No AFF">
-  <img src="[https://img.shields.io/badge/Update-Daily-blue?style=for-the-badge](https://img.shields.io/badge/Update-Daily-blue?style=for-the-badge)" alt="Update Daily">
-  <img src="[https://img.shields.io/github/stars/python-net-dev/anytls-vless-reality-hysteria2-tuic-ss?style=for-the-badge&color=orange](https://img.shields.io/github/stars/python-net-dev/anytls-vless-reality-hysteria2-tuic-ss?style=for-the-badge&color=orange)" alt="Stars">
+  🔒 <b>纯公益无套路</b> &nbsp;|&nbsp; 🔄 <b>每日自动更新</b> &nbsp;|&nbsp; ⭐ <b>纯净无 AFF</b>
 </p>
 
 <p align="center">
