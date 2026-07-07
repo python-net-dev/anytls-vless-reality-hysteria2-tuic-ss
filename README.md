@@ -1,9 +1,9 @@
 # 🚀 AnyTLS：2026 全协议高可用前沿节点池 / 免费机场推荐合集
 
 <p align="center">
-  <img src="https://img.shields.io/badge/No%20AFF-%E7%BA%AF%E5%85%AC%E7%9B%8A%E6%97%A0%E5%A5%97%E8%B7%AF-green?style=for-the-badge" alt="No AFF">
-  <img src="https://img.shields.io/badge/Update-Daily-blue?style=for-the-badge" alt="Update Daily">
-  <img src="https://img.shields.io/github/stars/python-net-dev/AnyTLS-VLESS-Reality-Hysteria2-Tuic-ss?style=for-the-badge&color=orange" alt="Stars">
+  <img src="[https://img.shields.io/badge/No%20AFF-%E7%BA%AF%E5%85%AC%E7%9B%8A%E6%97%A0%E5%A5%97%E8%B7%AF-green?style=for-the-badge](https://img.shields.io/badge/No%20AFF-%E7%BA%AF%E5%85%AC%E7%9B%8A%E6%97%A0%E5%A5%97%E8%B7%AF-green?style=for-the-badge)" alt="No AFF">
+  <img src="[https://img.shields.io/badge/Update-Daily-blue?style=for-the-badge](https://img.shields.io/badge/Update-Daily-blue?style=for-the-badge)" alt="Update Daily">
+  <img src="[https://img.shields.io/github/stars/python-net-dev/anytls-vless-reality-hysteria2-tuic-ss?style=for-the-badge&color=orange](https://img.shields.io/github/stars/python-net-dev/anytls-vless-reality-hysteria2-tuic-ss?style=for-the-badge&color=orange)" alt="Stars">
 </p>
 
 <p align="center">
@@ -29,12 +29,9 @@
 
 ## 🗓️ 动态更新日志
 
-<!-- DATE_START -->
 > **📅 最近更新时间：2026.07.07**
-<!-- DATE_END -->
-
--   ✨ **[新增]** 自动化测试与优选脚本已全面部署，每日定时剔除失效及断连节点。
--   ⚡ **[优化]** 引入节点随机排序与动态分流机制，有效防止头部节点遭遇流量拥堵。
+- ✨ **[新增]** 自动化测试与优选脚本已全面部署，每日定时剔除失效及断连节点。
+- ⚡ **[优化]** 引入节点随机排序与动态分流机制，有效防止头部节点遭遇流量拥堵。
 
 ---
 
@@ -44,8 +41,8 @@
 
 | 机场名称 | 官方直达链接 | 核心特点与服务规格 | 适用场景 |
 | :--- | :--- | :--- | :--- |
-| **云猫** | [直达官网 🌐](https://cloud.yuncat.top) | 注册即送 3天/5GB 流量，价格亲民。全面解锁 ChatGPT、Gemini 以及主流流媒体。 | 适合日常网页浏览、AI 工具重度依赖者（延迟略高，但实际带宽充裕）。 |
-| **一元机场** | [直达官网 🌐](https://xn--4gq62f52gdssa.com) | 极致低成本方案（低至 12元/年）。主打低开销下的长期可用性。 | 适合轻度翻墙、对速度不敏感的低预算备用党。 |
+| **云猫** | [直达云猫官网 🌐 (cloud.yuncat.top)](https://cloud.yuncat.top) | 注册即送 3天/5GB 流量，价格亲民。全面解锁 ChatGPT、Gemini 以及主流流媒体。 | 适合日常网页浏览、AI 工具重度依赖者（延迟略高，但实际带宽充裕）。 |
+| **一元机场** | [直达一元机场官网 🌐 (一元机场.com)](https://xn--4gq62f52gdssa.com) | 极致低成本方案（低至 12元/年）。主打低开销下的长期可用性。 | 适合轻度翻墙、对速度不敏感的低预算备用党。 |
 
 ⚠️ *注：若发现上述链接失效，请及时通过 [Issues](../../issues) 反馈，本站将在 24 小时内完成修正或移除。*
 
@@ -54,14 +51,12 @@
 ## 🔗 二、通用订阅节点池 (Clash / V2ray / SSR)
 
 > 🤖 **数据来源**：由 GitHub 开源社区志愿者维护的优质节点池聚合。
-> 🔑 **使用方法**：直接复制下方对应格式的链接，在客户端中选择“添加订阅”并刷新即可。
-
-<!-- LINK_POOL_START -->
+> 🔑 **使用方法**：长按或右键直接复制下方代码框中的完整链接，在客户端中选择“添加订阅”并刷新即可。
 
 ### 1️⃣ 核心推荐：ChromeGo_Merge (全协议自动优选)
 *目前社区维护热度最高、节点存活率最优的综合节点池。*
 ```yaml
-[https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/heads/main/.github/links/clash.yaml](https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/heads/main/.github/links/clash.yaml)
+https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/heads/main/.github/links/clash.yaml
 
 ```
 
@@ -70,7 +65,7 @@
 *适用于 Clash Verge Rev、ClashX Meta、Clash for Android 等 Meta/Clash 内核客户端。*
 
 ```yaml
-[https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/heads/main/.github/links/clash.yaml](https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/heads/main/.github/links/clash.yaml)
+https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/heads/main/.github/links/clash.yaml
 
 ```
 
@@ -79,7 +74,7 @@
 *适用于 v2rayN、v2rayNG、Shadowrocket (小火箭)、Quantumult X。*
 
 ```text
-[https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/heads/main/.github/links/v2.txt](https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/heads/main/.github/links/v2.txt)
+https://raw.githubusercontent.com/vless-reality/clash-v2rayn-Shadowrocket/refs/heads/main/.github/links/v2.txt
 
 ```
 
@@ -136,8 +131,8 @@
 
 * 🚀 [ghproxy.net](https://ghproxy.net)
 * 🚀 [ghproxy.cn](https://ghproxy.cn)
-* 🚀 [suspicious link removed]
-* 🚀 [suspicious link removed]
+* 🚀 [可疑链接已删除]
+* 🚀 [可疑链接已删除]
 
 ### 2. 谷歌学术 (Google Scholar) 镜像
 
